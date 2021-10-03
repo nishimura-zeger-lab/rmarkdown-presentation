@@ -1,2 +1,6 @@
+presentation.html
+*_files/
+*_cache/
+libs/*
 .Rproj.user
 .Rhistory
